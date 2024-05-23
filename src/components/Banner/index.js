@@ -2,10 +2,10 @@ import styles from './Banner.module.css';
 
 function Banner({ image }) {
     return (
-        <div 
+        <section 
             className={styles.banner}
             style={{ backgroundImage: `url('/images/${image}')` }}
-        ></div>
+        ></section>
     );
 }
 

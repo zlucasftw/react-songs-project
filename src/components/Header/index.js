@@ -1,14 +1,35 @@
+import { Link } from 'react-router-dom';
 import styles from './Header.module.css';
 
 function Header() {
     return (
         <header className={styles.header}>
-            <span>Bones</span>
+            <Link>
+                <span to="/">Bones</span>
+            </Link>
             <nav>
-                <a href="">Home</a>
-                <a href="">Songs</a>
-                <a href="">Favorites</a>
-                <a href="">About Me</a>
+                <ul>
+                    <li>
+                        <Link to="/">Home</Link>
+                    </li>
+                    <li>
+                        {/* Function testability, not a feature yet */}
+                            <Link to="/watch">Watch</Link>
+                        {/* Function testability, not a feature yet */}
+                    </li>
+                    <li>
+                        <Link to="/search">Search</Link>
+                    </li>
+                    <li>
+                        <Link>Songs</Link>
+                    </li>
+                    <li>
+                        <Link>Favorites</Link>
+                    </li>
+                    <li>
+                        <Link>About Me</Link>
+                    </li>
+                </ul>
             </nav>
         </header>
     );
