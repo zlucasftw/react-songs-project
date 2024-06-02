@@ -23,20 +23,21 @@
     list-style: none;
 }
 
+.header a {
+    text-decoration: none;
+}
+
 .header span {
     font-size: 4rem;
     font-weight: 500;
     margin: 0rem 0rem 0rem 0.5rem;
     font-family: 'Santos Dumont', sans-serif;
     text-decoration: none;
-}
-
-.header a {
-    text-decoration: none;
+    outline: none;
     color: #000000;
 }
 
-.header ul li a {
+.header nav ul li a {
     margin: 0.2rem 1rem 0.2rem 0.2rem;
     padding: 0.5rem;
     text-decoration: none;
@@ -44,8 +45,10 @@
     border: 0.01rem solid #000000;
     border-radius: 0.5rem;
     background-color: #FFFFFFAB;
+    text-decoration: none;
+    color: #000000;
 }
 
-.header a:hover {
+.header nav ul li a:hover {
     background-color: #00000017;
 }

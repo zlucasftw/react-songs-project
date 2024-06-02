@@ -8,6 +8,7 @@ export const categories = [
     "Grunge",
     "Rock",
     "String Theory",
+    "Heavy Metal",
     "Metal"
    /*  "Trash Metal",
     "Rap" */

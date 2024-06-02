@@ -3,5 +3,10 @@
 } */
 
 .watch {
-    padding: 20rem 0 0 0;
+    /* padding: 2rem 0 0 0; */
+    padding: 5% 0 0 0;
+}
+
+.watch iframe {
+    border-radius: 1rem;
 }

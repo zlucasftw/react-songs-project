@@ -12,21 +12,21 @@ function Home() {
   return (
     <>
     <Header />
-    <Banner image="aurora-borealis-loop5.gif" />
-    <Container>
+      <Banner image="aurora-borealis-loop5.gif" />
+        <Container>
       
-      <h1>Songs</h1>
+        <h1>Songs</h1>
 
-      { categories.map((category, index) =>
-          <Category category={category}>
-            <Carousel>
-                { filterCategory(index).map((video) => <Card id={video.id} key={video.id} /> )}  
-            </Carousel>
-            </Category>
-        )}
+            { categories.map((category, index) =>
+              <Category category={category}>
+                <Carousel>
+                    { filterCategory(index).map((video) => <Card id={video.id} key={video.id} /> )}  
+                </Carousel>
+              </Category>
+            )}
 
-    </Container>
-    <Footer />
+        </Container>
+      <Footer />
     </>
   );
 }

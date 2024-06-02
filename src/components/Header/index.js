@@ -24,7 +24,7 @@ function Header() {
                         <Link>Songs</Link>
                     </li>
                     <li>
-                        <Link>Favorites</Link>
+                        <Link to="/favorites">Favorites</Link>
                     </li>
                     <li>
                         <Link>About Me</Link>

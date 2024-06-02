@@ -56,6 +56,13 @@
         "category": "Alternative/Indie"
     },
     {
+        "id": "B9dSYgd5Elk",
+        "title": "MGMT - Time To Pretend",
+        "cover": "https://i.ytimg.com/vi/B9dSYgd5Elk/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=B9dSYgd5Elk",
+        "category": "Alternative/Indie"
+    },
+    {
         "id": "bVavFG7xJ88",
         "title": "BB's Theme",
         "cover": "https://i.ytimg.com/vi/bVavFG7xJ88/mqdefault.jpg",
@@ -81,6 +88,13 @@
         "title": "Low Roar - Not Around",
         "cover": "https://i.ytimg.com/vi/5uffuJxMqTc/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=5uffuJxMqTc",
+        "category": "Alternative/Indie"
+    },
+    {
+        "id": "rtL5oMyBHPs",
+        "title": "MGMT - Little Dark Age",
+        "cover": "https://i.ytimg.com/vi/rtL5oMyBHPs/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rtL5oMyBHPs",
         "category": "Alternative/Indie"
     },
     {
@@ -217,10 +231,38 @@
         "category": "Indie Rock"
     },
     {
+        "id": "pRU-6vaKaf4",
+        "title": "Radiohead - My Iron Lung",
+        "cover": "https://i.ytimg.com/vi/pRU-6vaKaf4/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pRU-6vaKaf4",
+        "category": "Indie Rock"
+    },
+    {
+        "id": "1uYWYWPc9HU",
+        "title": "Radiohead - Karma Police",
+        "cover": "https://i.ytimg.com/vi/1uYWYWPc9HU/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1uYWYWPc9HU",
+        "category": "Indie Rock"
+    },
+    {
+        "id": "fHiGbolFFGw",
+        "title": "Radiohead - Paranoid Android",
+        "cover": "https://i.ytimg.com/vi/fHiGbolFFGw/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fHiGbolFFGw",
+        "category": "Indie Rock"
+    },
+    {
         "id": "49FB9hhoO6c",
         "title": "Pixies - Where Is My Mind?",
         "cover": "https://i.ytimg.com/vi/49FB9hhoO6c/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=49FB9hhoO6c",
+        "category": "Indie Rock"
+    },
+    {
+        "id": "TTAU7lLDZYU",
+        "title": "Radiohead - Daydreaming",
+        "cover": "https://i.ytimg.com/vi/TTAU7lLDZYU/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TTAU7lLDZYU",
         "category": "Indie Rock"
     },
     {
@@ -301,6 +343,13 @@
         "category": "String Theory"
     },
     {
+        "id": "CGj85pVzRJs",
+        "title": "The Beatles - Let It Be",
+        "cover": "https://i.ytimg.com/vi/CGj85pVzRJs/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CGj85pVzRJs",
+        "category": "Rock"
+    },
+    {
         "id": "KQetemT1sWc",
         "title": "The Beatles - Here Comes The Sun",
         "cover": "https://i.ytimg.com/vi/KQetemT1sWc/mqdefault.jpg",
@@ -369,6 +418,55 @@
         "cover": "https://i.ytimg.com/vi/Jwtyn-L-2gQ/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Jwtyn-L-2gQ",
         "category": "Rock"
+    },
+    {
+        "id": "0qanF-91aJo",
+        "title": "Black Sabbath - Paranoid",
+        "cover": "https://i.ytimg.com/vi/0qanF-91aJo/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0qanF-91aJo",
+        "category": "Heavy Metal"
+    },
+    {
+        "id": "3mbvWn1EY6g",
+        "title": "Motörhead - Ace Of Spades",
+        "cover": "https://i.ytimg.com/vi/3mbvWn1EY6g/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3mbvWn1EY6g",
+        "category": "Heavy Metal"
+    },
+    {
+        "id": "b3-QqGVt-tM",
+        "title": "Black Sabbath - Iron Man",
+        "cover": "https://i.ytimg.com/vi/b3-QqGVt-tM/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=b3-QqGVt-tM",
+        "category": "Heavy Metal"
+    },
+    {
+        "id": "6csiUGMC1fk",
+        "title": "Black Sabbath - War Pigs",
+        "cover": "https://i.ytimg.com/vi/6csiUGMC1fk/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6csiUGMC1fk",
+        "category": "Heavy Metal"
+    },
+    {
+        "id": "0lVdMbUx1_k",
+        "title": "Black Sabbath - Black Sabbath",
+        "cover": "https://i.ytimg.com/vi/0lVdMbUx1_k/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0lVdMbUx1_k",
+        "category": "Heavy Metal"
+    },
+    {
+        "id": "nJYdDmUvgok",
+        "title": "Black Sabbath - N.I.B",
+        "cover": "https://i.ytimg.com/vi/nJYdDmUvgok/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nJYdDmUvgok",
+        "category": "Heavy Metal"
+    },
+    {
+        "id": "RVUK2rtAkJE",
+        "title": "Black Sabbath - Heaven and Hell",
+        "cover": "https://i.ytimg.com/vi/RVUK2rtAkJE/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RVUK2rtAkJE",
+        "category": "Heavy Metal"
     }
-
+    
 ]
