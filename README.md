@@ -1,3 +1,12 @@
+## Personal React Project
+# Learning React basis and advanced JavaScript aiming to reach a comfortable domain on both advanced Vanilla JavaScript also React features. I aim also to learn backend JavaScript (Node) and apply within this project creating scalable API's for different uses
+that suits the needs of the website.
+
+## Projeto pessoal em React
+# Aprendendo conceitos básicos e criando uma base no framework React assim como em JavaScript avançado.
+
+Créditos as aulas do grande professor Edson Maia que estou vendo e aprendendo diversos conceitos em relação ao React.
+
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
