@@ -52,3 +52,17 @@
 .header nav ul li a:hover {
     background-color: #00000017;
 }
+
+
+@media (max-width: 390px) {
+    .header span {
+        font-size: 2rem;
+        font-weight: 200;
+    }
+
+    .header nav ul li a {
+        font-size: 0.7rem;
+        margin: 0.1rem 0.1rem 0.1rem 0;
+        padding: 0.1rem;
+    }
+}

@@ -18,4 +18,5 @@
 
 .container img {
     height: 600px;
+    border-radius: 1rem;
 }

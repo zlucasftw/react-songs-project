@@ -6,6 +6,7 @@ export const categories = [
     "Alternative Rock",
     "Indie Rock",
     "Grunge",
+    "Pop",
     "Rock",
     "String Theory",
     "Heavy Metal",

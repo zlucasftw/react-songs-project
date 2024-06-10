@@ -6,6 +6,7 @@ import styles from "./Watch.module.css";
 import { useParams } from "react-router-dom";
 import songs from "../../json/db.json";
 import PageNotFound from "../PageNotFound";
+import ScrollToTopButton from "../../components/ScrollToTopButton";
 
 function Watch() {
     const params = useParams();
@@ -15,6 +16,7 @@ function Watch() {
 
     return (
         <>
+        <ScrollToTopButton />
         <Header />
         <Container>
             <section className={styles.watch}>

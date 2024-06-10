@@ -49,6 +49,13 @@
         "category": "Alternative/Indie"
     },
     {
+        "id": "3QJsqGk5f2s",
+        "title": "flora cash - Born In The Slumber",
+        "cover": "https://i.ytimg.com/vi/3QJsqGk5f2s/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3QJsqGk5f2s",
+        "category": "Alternative/Indie"
+    },
+    {
         "id": "kzHT-Hjwm9o",
         "title": "Silent Poets - Almost Nothing",
         "cover": "https://i.ytimg.com/vi/kzHT-Hjwm9o/mqdefault.jpg",
@@ -98,10 +105,31 @@
         "category": "Alternative/Indie"
     },
     {
+        "id": "qVdPh2cBTN0",
+        "title": "flora cash - You're Somebody Else",
+        "cover": "https://i.ytimg.com/vi/qVdPh2cBTN0/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qVdPh2cBTN0",
+        "category": "Alternative/Indie"
+    },
+    {
+        "id": "xIYJ7VaSxYY",
+        "title": "Paramore - This is Why",
+        "cover": "https://i.ytimg.com/vi/xIYJ7VaSxYY/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xIYJ7VaSxYY",
+        "category": "Alternative Rock"
+    },
+    {
         "id": "GLvohMXgcBo",
         "title": "Red Hot Chili Peppers - Under the Bridge",
         "cover": "https://i.ytimg.com/vi/GLvohMXgcBo/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=GLvohMXgcBo",
+        "category": "Alternative Rock"
+    },
+    {
+        "id": "OblL026SvD4",
+        "title": "Paramore - Still Into You",
+        "cover": "https://i.ytimg.com/vi/OblL026SvD4/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OblL026SvD4",
         "category": "Alternative Rock"
     },
     {
@@ -112,10 +140,24 @@
         "category": "Alternative Rock"
     },
     {
+        "id": "aCyGvGEtOwc",
+        "title": "Paramore - Misery Business",
+        "cover": "https://i.ytimg.com/vi/aCyGvGEtOwc/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aCyGvGEtOwc",
+        "category": "Alternative Rock"
+    },
+    {
         "id": "OS8taasZl8k",
         "title": "Red Hot Chili Peppers - Black Summer",
         "cover": "https://i.ytimg.com/vi/OS8taasZl8k/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=OS8taasZl8k",
+        "category": "Alternative Rock"
+    },
+    {
+        "id": "EFEmTsfFL5A",
+        "title": "Paramore - Ain't It Fun",
+        "cover": "https://i.ytimg.com/vi/EFEmTsfFL5A/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EFEmTsfFL5A",
         "category": "Alternative Rock"
     },
     {
@@ -130,6 +172,13 @@
         "title": "Audioslave - Like a Stone",
         "cover": "https://i.ytimg.com/vi/7QU1nvuxaMA/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=7QU1nvuxaMA",
+        "category": "Alternative Rock"
+    },
+    {
+        "id": "RvnkAtWcKYg",
+        "title": "Paramore - Decode",
+        "cover": "https://i.ytimg.com/vi/RvnkAtWcKYg/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RvnkAtWcKYg",
         "category": "Alternative Rock"
     },
     {
@@ -196,6 +245,13 @@
         "category": "Indie Rock"
     },
     {
+        "id": "8aomt1gQ6So",
+        "title": "Elliot Smith - Between The Bars",
+        "cover": "https://i.ytimg.com/vi/8aomt1gQ6So/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8aomt1gQ6So",
+        "category": "Indie Rock"
+    },
+    {
         "id": "u5CVsCnxyXg",
         "title": "Radiohead - No Surprises",
         "cover": "https://i.ytimg.com/vi/XFkzRNyygfk/mqdefault.jpg",
@@ -238,6 +294,13 @@
         "category": "Indie Rock"
     },
     {
+        "id": "m2NCuoVMhjk",
+        "title": "Elliot Smith - Everything Means Nothing To Me",
+        "cover": "https://i.ytimg.com/vi/m2NCuoVMhjk/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+        "category": "Indie Rock"
+    },
+    {
         "id": "1uYWYWPc9HU",
         "title": "Radiohead - Karma Police",
         "cover": "https://i.ytimg.com/vi/1uYWYWPc9HU/mqdefault.jpg",
@@ -264,6 +327,55 @@
         "cover": "https://i.ytimg.com/vi/TTAU7lLDZYU/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=TTAU7lLDZYU",
         "category": "Indie Rock"
+    },
+    {
+        "id": "cIriwVhRPVA",
+        "title": "Sigrid - Strangers",
+        "cover": "https://i.ytimg.com/vi/cIriwVhRPVA/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cIriwVhRPVA",
+        "category": "Pop"
+    },
+    {
+        "id": "nMO5Ko_77Hk",
+        "title": "Amy Winehouse - Love Is A Losing Game",
+        "cover": "https://i.ytimg.com/vi/nMO5Ko_77Hk/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nMO5Ko_77Hk",
+        "category": "Pop"
+    },
+    {
+        "id": "xzonQoON9eo",
+        "title": "Sigrid - Don't Kill My Vibe",
+        "cover": "https://i.ytimg.com/vi/xzonQoON9eo/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xzonQoON9eo",
+        "category": "Pop"
+    },
+    {
+        "id": "0I647GU3Jsc",
+        "title": "Imagine Dragons - Natural",
+        "cover": "https://i.ytimg.com/vi/0I647GU3Jsc/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0I647GU3Jsc",
+        "category": "Pop"
+    },
+    {
+        "id": "o4552tadeuM",
+        "title": "Sigrid - Bad Life feat.Bring Me The Horizon",
+        "cover": "https://i.ytimg.com/vi/o4552tadeuM/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=o4552tadeuM",
+        "category": "Pop"
+    },
+    {
+        "id": "F5tSoaJ93ac",
+        "title": "Imagine Dragons & JID - Enemy",
+        "cover": "https://i.ytimg.com/vi/F5tSoaJ93ac/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F5tSoaJ93ac",
+        "category": "Pop"
+    },
+    {
+        "id": "1uHt2LrCSWg",
+        "title": "Sigrid - Sucker Punch",
+        "cover": "https://i.ytimg.com/vi/1uHt2LrCSWg/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1uHt2LrCSWg",
+        "category": "Pop"
     },
     {
         "id": "hTWKbfoikeg",
@@ -343,10 +455,24 @@
         "category": "String Theory"
     },
     {
+        "id": "cdDPR8GzXy8",
+        "title": "Paul McCartney - Maybe I'm Amazed",
+        "cover": "https://i.ytimg.com/vi/cdDPR8GzXy8/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cdDPR8GzXy8",
+        "category": "Rock"
+    },
+    {
         "id": "CGj85pVzRJs",
         "title": "The Beatles - Let It Be",
         "cover": "https://i.ytimg.com/vi/CGj85pVzRJs/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=CGj85pVzRJs",
+        "category": "Rock"
+    },
+    {
+        "id": "YnFknaD9eWY",
+        "title": "Paul McCartney - Say Say Say ft.Michael Jackson",
+        "cover": "https://i.ytimg.com/vi/YnFknaD9eWY/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YnFknaD9eWY",
         "category": "Rock"
     },
     {
@@ -357,10 +483,38 @@
         "category": "Rock"
     },
     {
+        "id": "YkgkThdzX-8",
+        "title": "John Lennon - Imagine",
+        "cover": "https://i.ytimg.com/vi/YkgkThdzX-8/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YkgkThdzX-8",
+        "category": "Rock"
+    },
+    {
         "id": "A_MjCqQoLLA",
         "title": "The Beatles - Hey Jude",
         "cover": "https://i.ytimg.com/vi/A_MjCqQoLLA/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=A_MjCqQoLLA",
+        "category": "Rock"
+    },
+    {
+        "id": "6wHBsMoHFWs",
+        "title": "George Harrison - My Sweet Lord",
+        "cover": "https://i.ytimg.com/vi/6wHBsMoHFWs/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6wHBsMoHFWs",
+        "category": "Rock"
+    },
+    {
+        "id": "Opxhh9Oh3rg",
+        "title": "The Beatles - Now and Then",
+        "cover": "https://i.ytimg.com/vi/Opxhh9Oh3rg/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Opxhh9Oh3rg",
+        "category": "Rock"
+    },
+    {
+        "id": "SP2ABs3AZl0",
+        "title": "Paul McCartney - Vanilla Sky",
+        "cover": "https://i.ytimg.com/vi/SP2ABs3AZl0/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SP2ABs3AZl0",
         "category": "Rock"
     },
     {
@@ -382,6 +536,13 @@
         "title": "The Beatles - Come Together",
         "cover": "https://i.ytimg.com/vi/45cYwDMibGo/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=45cYwDMibGo",
+        "category": "Rock"
+    },
+    {
+        "id": "NR0UmZcf89E",
+        "title": "Paul McCartney & Wings - Live And Let Die",
+        "cover": "https://i.ytimg.com/vi/NR0UmZcf89E/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NR0UmZcf89E",
         "category": "Rock"
     },
     {
@@ -417,6 +578,13 @@
         "title": "The Rolling Stones - Sympathy For The Devil",
         "cover": "https://i.ytimg.com/vi/Jwtyn-L-2gQ/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Jwtyn-L-2gQ",
+        "category": "Rock"
+    },
+    {
+        "id": "cmpRLQZkTb8",
+        "title": "Oasis - Don't Look Back in Anger",
+        "cover": "https://i.ytimg.com/vi/cmpRLQZkTb8/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cmpRLQZkTb8",
         "category": "Rock"
     },
     {

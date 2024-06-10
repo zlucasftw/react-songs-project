@@ -4,11 +4,13 @@ import Header from "../../components/Header";
 import styles from "./Search.module.css";
 import songs from "../../json/db.json";
 import SearchSongsList from "../../components/SearchSongsList";
+import ScrollToTopButton from "../../components/ScrollToTopButton";
 
 function Search() {
 
     return (
         <>
+            <ScrollToTopButton />
             <Header />
             <Container>
                 <section className={styles.search}>
